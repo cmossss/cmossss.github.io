@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/index.html</link>
-    <description></description>
+    <title>记录 :: CMOSSSS</title>
+    <link>http://localhost:1313/cmossss/cmossss.github.io/index.html</link>
+    <description>This is a new home page.</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2024 22:56:52 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Mon, 02 Sep 2024 00:47:51 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/cmossss/cmossss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随笔</title>
+      <link>http://localhost:1313/cmossss/cmossss.github.io/%E9%9A%8F%E7%AC%94/index.html</link>
+      <pubDate>Mon, 02 Sep 2024 00:47:51 +0800</pubDate>
+      <guid>http://localhost:1313/cmossss/cmossss.github.io/%E9%9A%8F%E7%AC%94/index.html</guid>
+      <description>随笔页面</description>
+    </item>
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/post/index.html</link>
+      <link>http://localhost:1313/cmossss/cmossss.github.io/post/index.html</link>
       <pubDate>Sun, 01 Sep 2024 22:56:52 +0800</pubDate>
-      <guid>http://localhost:1313/post/index.html</guid>
+      <guid>http://localhost:1313/cmossss/cmossss.github.io/post/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/index.html</link>
+      <link>http://localhost:1313/cmossss/cmossss.github.io/about/index.html</link>
       <pubDate>Sun, 01 Sep 2024 22:55:53 +0800</pubDate>
-      <guid>http://localhost:1313/about/index.html</guid>
+      <guid>http://localhost:1313/cmossss/cmossss.github.io/about/index.html</guid>
       <description>正文内容</description>
     </item>
   </channel>
