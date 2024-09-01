@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts :: CMOSSSS</title>
-    <link>http://localhost:1313/cmossss/cmossss.github.io/post/index.html</link>
+    <link>//localhost:1313/post/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 22:56:52 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/cmossss/cmossss.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://localhost:1313/cmossss/cmossss.github.io/post/first/index.html</link>
+      <link>//localhost:1313/post/first/index.html</link>
       <pubDate>Sun, 01 Sep 2024 22:56:52 +0800</pubDate>
-      <guid>http://localhost:1313/cmossss/cmossss.github.io/post/first/index.html</guid>
+      <guid>//localhost:1313/post/first/index.html</guid>
       <description>aaa bbb ccc</description>
     </item>
   </channel>
