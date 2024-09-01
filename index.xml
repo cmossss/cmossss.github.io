@@ -15,19 +15,5 @@
       <guid>//localhost:1313/%E9%9A%8F%E7%AC%94/index.html</guid>
       <description>随笔页面</description>
     </item>
-    <item>
-      <title>Posts</title>
-      <link>//localhost:1313/post/index.html</link>
-      <pubDate>Sun, 01 Sep 2024 22:56:52 +0800</pubDate>
-      <guid>//localhost:1313/post/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/index.html</link>
-      <pubDate>Sun, 01 Sep 2024 22:55:53 +0800</pubDate>
-      <guid>//localhost:1313/about/index.html</guid>
-      <description>正文内容</description>
-    </item>
   </channel>
 </rss>
