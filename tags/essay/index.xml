@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>随笔 :: CMOSSSS</title>
-    <link>//localhost:1313/%E9%9A%8F%E7%AC%94/index.html</link>
-    <description>随笔页面</description>
+    <title>Essay :: Tag :: CMOSSSS</title>
+    <link>//localhost:1313/tags/essay/index.html</link>
+    <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Sep 2024 23:56:43 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/essay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>09月03日</title>
       <link>//localhost:1313/%E9%9A%8F%E7%AC%94/2024/09%E6%9C%8803%E6%97%A5/index.html</link>
