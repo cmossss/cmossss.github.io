@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/%E9%9A%8F%E7%AC%94/2024/09%E6%9C%8803%E6%97%A5/index.html</loc>
-    <lastmod>2024-09-02T23:56:43+08:00</lastmod>
+    <loc>//localhost:1313/cs61c/index.html</loc>
+    <lastmod>2024-09-05T23:59:36+08:00</lastmod>
   </url>
   <url>
-    <loc>//localhost:1313/tags/essay/index.html</loc>
-    <lastmod>2024-09-02T23:56:43+08:00</lastmod>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/index.html</loc>
-    <lastmod>2024-09-02T23:56:43+08:00</lastmod>
+    <loc>//localhost:1313/cs61c/%E4%BB%8B%E7%BB%8D/index.html</loc>
+    <lastmod>2024-09-05T23:59:36+08:00</lastmod>
   </url>
   <url>
     <loc>//localhost:1313/index.html</loc>
-    <lastmod>2024-09-02T23:56:43+08:00</lastmod>
+    <lastmod>2024-09-05T23:59:36+08:00</lastmod>
   </url>
   <url>
     <loc>//localhost:1313/%E9%9A%8F%E7%AC%94/2024/09%E6%9C%8802%E6%97%A5/index.html</loc>
+    <lastmod>2024-09-02T00:48:59+08:00</lastmod>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/essay/index.html</loc>
+    <lastmod>2024-09-02T00:48:59+08:00</lastmod>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/index.html</loc>
     <lastmod>2024-09-02T00:48:59+08:00</lastmod>
   </url>
   <url>
