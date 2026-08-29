@@ -13,6 +13,7 @@
     "/Docs/": "Docs",
     "/Blog/": "Blog",
     "/CV/": "CV",
+    "/learn-ca/": "Learn-CA",
   ),
   
   /// 网站的站点标题。会显示在浏览器标签页以及 SEO/社交分享卡片中。
