@@ -6,25 +6,33 @@
 
 = 博客 / Blog
 
-中文博客样例可参考 #link("https://yousa-mirage.github.io/Blog")[我的个人网站]。
+//中文博客样例可参考 #link("https://yousa-mirage.github.io/Blog")[我的个人网站]。
 
-== 2025
-
+== 2026
 #tufted.blog-entry(
-  date: datetime(year: 2025, month: 10, day: 30),
-  path: "2025-10-30-normal-distribution/",
-  title: "Normal Distribution",
-)
-#tufted.blog-entry(
-  date: datetime(year: 2025, month: 4, day: 16),
-  path: "2025-04-16-monkeys-apes",
-  title: "Monkeys vs Apes",
+  date: "2026-09-03",
+  path: "2026-09-03-blog/",
+  title: "广度还是深度",
 )
 
-== 2024
-
-#tufted.blog-entry(
-  date: "2024-10-04",
-  path: "2024-10-04-iterators-generators/",
-  title: "Iterators vs Generators in Python",
-)
+//== 2025
+//
+//#tufted.blog-entry(
+//  date: datetime(year: 2025, month: 10, day: 30),
+//  path: "2025-10-30-normal-distribution/",
+//  title: "Normal Distribution",
+//)
+//#tufted.blog-entry(
+//  date: datetime(year: 2025, month: 4, day: 16),
+//  path: "2025-04-16-monkeys-apes",
+//  title: "Monkeys vs Apes",
+//)
+//
+//== 2024
+//
+//#tufted.blog-entry(
+//  date: "2024-10-04",
+//  path: "2024-10-04-iterators-generators/",
+//  title: "Iterators vs Generators in Python",
+//)
+//
